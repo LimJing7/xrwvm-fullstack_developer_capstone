@@ -3,6 +3,16 @@ img{
   align-self: center;
 }
 
+table{
+  border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #222;
+    padding: 8px;
+  }
+
+
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
